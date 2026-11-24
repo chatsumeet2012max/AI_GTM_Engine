@@ -1,0 +1,10 @@
+sector_id,sector,example_product,status
+S01,AI Advertising,Interactive advertising,Active demo
+S02,Retail,Inventory management,Future configuration
+S03,Engineering,PLC monitoring,Future configuration
+S04,Healthcare,Joint implant procurement,Future configuration
+S05,Pharma,Oncology analytics,Future configuration
+S06,Food & Beverage,Distribution optimization,Future configuration
+S07,Agrosciences,Farm management,Future configuration
+S08,Finance,Market analytics,Future configuration
+S09,Education,School administration,Future configuration

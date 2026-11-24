@@ -1,0 +1,501 @@
+interaction_id,lead_id,date,event,actor,data_type
+X001,L001,2026-11-01,Score update,AI,Simulated historical event
+X002,L001,2026-11-02,Research,AI,Simulated historical event
+X003,L001,2026-11-03,Research,AI,Simulated historical event
+X004,L001,2026-11-04,Research,AI,Simulated historical event
+X005,L001,2026-11-05,Research,AI,Simulated historical event
+X006,L002,2026-11-01,Research,AI,Simulated historical event
+X007,L002,2026-11-02,Research,AI,Simulated historical event
+X008,L002,2026-11-03,Draft created,AI,Simulated historical event
+X009,L002,2026-11-04,Score update,AI,Simulated historical event
+X010,L002,2026-11-05,Score update,AI,Simulated historical event
+X011,L003,2026-11-01,Research,AI,Simulated historical event
+X012,L003,2026-11-02,Draft created,AI,Simulated historical event
+X013,L003,2026-11-03,Score update,AI,Simulated historical event
+X014,L003,2026-11-04,Draft created,AI,Simulated historical event
+X015,L003,2026-11-05,Research,AI,Simulated historical event
+X016,L004,2026-11-01,Research,AI,Simulated historical event
+X017,L004,2026-11-02,Score update,AI,Simulated historical event
+X018,L004,2026-11-03,Research,AI,Simulated historical event
+X019,L004,2026-11-04,Research,AI,Simulated historical event
+X020,L004,2026-11-05,Research,AI,Simulated historical event
+X021,L005,2026-11-01,Research,AI,Simulated historical event
+X022,L005,2026-11-02,Draft created,AI,Simulated historical event
+X023,L005,2026-11-03,Draft created,AI,Simulated historical event
+X024,L005,2026-11-04,Research,AI,Simulated historical event
+X025,L005,2026-11-05,Research,AI,Simulated historical event
+X026,L006,2026-11-01,Score update,AI,Simulated historical event
+X027,L006,2026-11-02,Research,AI,Simulated historical event
+X028,L006,2026-11-03,Research,AI,Simulated historical event
+X029,L006,2026-11-04,Draft created,AI,Simulated historical event
+X030,L006,2026-11-05,Draft created,AI,Simulated historical event
+X031,L007,2026-11-01,Draft created,AI,Simulated historical event
+X032,L007,2026-11-02,Draft created,AI,Simulated historical event
+X033,L007,2026-11-03,Score update,AI,Simulated historical event
+X034,L007,2026-11-04,Draft created,AI,Simulated historical event
+X035,L007,2026-11-05,Draft created,AI,Simulated historical event
+X036,L008,2026-11-01,Draft created,AI,Simulated historical event
+X037,L008,2026-11-02,Research,AI,Simulated historical event
+X038,L008,2026-11-03,Draft created,AI,Simulated historical event
+X039,L008,2026-11-04,Score update,AI,Simulated historical event
+X040,L008,2026-11-05,Draft created,AI,Simulated historical event
+X041,L009,2026-11-01,Research,AI,Simulated historical event
+X042,L009,2026-11-02,Draft created,AI,Simulated historical event
+X043,L009,2026-11-03,Draft created,AI,Simulated historical event
+X044,L009,2026-11-04,Score update,AI,Simulated historical event
+X045,L009,2026-11-05,Draft created,AI,Simulated historical event
+X046,L010,2026-11-01,Research,AI,Simulated historical event
+X047,L010,2026-11-02,Draft created,AI,Simulated historical event
+X048,L010,2026-11-03,Score update,AI,Simulated historical event
+X049,L010,2026-11-04,Draft created,AI,Simulated historical event
+X050,L010,2026-11-05,Draft created,AI,Simulated historical event
+X051,L011,2026-11-01,Score update,AI,Simulated historical event
+X052,L011,2026-11-02,Score update,AI,Simulated historical event
+X053,L011,2026-11-03,Research,AI,Simulated historical event
+X054,L011,2026-11-04,Research,AI,Simulated historical event
+X055,L011,2026-11-05,Research,AI,Simulated historical event
+X056,L012,2026-11-01,Score update,AI,Simulated historical event
+X057,L012,2026-11-02,Draft created,AI,Simulated historical event
+X058,L012,2026-11-03,Draft created,AI,Simulated historical event
+X059,L012,2026-11-04,Score update,AI,Simulated historical event
+X060,L012,2026-11-05,Research,AI,Simulated historical event
+X061,L013,2026-11-01,Research,AI,Simulated historical event
+X062,L013,2026-11-02,Research,AI,Simulated historical event
+X063,L013,2026-11-03,Research,AI,Simulated historical event
+X064,L013,2026-11-04,Score update,AI,Simulated historical event
+X065,L013,2026-11-05,Research,AI,Simulated historical event
+X066,L014,2026-11-01,Draft created,AI,Simulated historical event
+X067,L014,2026-11-02,Research,AI,Simulated historical event
+X068,L014,2026-11-03,Score update,AI,Simulated historical event
+X069,L014,2026-11-04,Draft created,AI,Simulated historical event
+X070,L014,2026-11-05,Score update,AI,Simulated historical event
+X071,L015,2026-11-01,Score update,AI,Simulated historical event
+X072,L015,2026-11-02,Score update,AI,Simulated historical event
+X073,L015,2026-11-03,Score update,AI,Simulated historical event
+X074,L015,2026-11-04,Score update,AI,Simulated historical event
+X075,L015,2026-11-05,Score update,AI,Simulated historical event
+X076,L016,2026-11-01,Research,AI,Simulated historical event
+X077,L016,2026-11-02,Score update,AI,Simulated historical event
+X078,L016,2026-11-03,Research,AI,Simulated historical event
+X079,L016,2026-11-04,Score update,AI,Simulated historical event
+X080,L016,2026-11-05,Score update,AI,Simulated historical event
+X081,L017,2026-11-01,Research,AI,Simulated historical event
+X082,L017,2026-11-02,Research,AI,Simulated historical event
+X083,L017,2026-11-03,Score update,AI,Simulated historical event
+X084,L017,2026-11-04,Score update,AI,Simulated historical event
+X085,L017,2026-11-05,Score update,AI,Simulated historical event
+X086,L018,2026-11-01,Draft created,AI,Simulated historical event
+X087,L018,2026-11-02,Draft created,AI,Simulated historical event
+X088,L018,2026-11-03,Draft created,AI,Simulated historical event
+X089,L018,2026-11-04,Draft created,AI,Simulated historical event
+X090,L018,2026-11-05,Draft created,AI,Simulated historical event
+X091,L019,2026-11-01,Draft created,AI,Simulated historical event
+X092,L019,2026-11-02,Score update,AI,Simulated historical event
+X093,L019,2026-11-03,Draft created,AI,Simulated historical event
+X094,L019,2026-11-04,Draft created,AI,Simulated historical event
+X095,L019,2026-11-05,Research,AI,Simulated historical event
+X096,L020,2026-11-01,Draft created,AI,Simulated historical event
+X097,L020,2026-11-02,Research,AI,Simulated historical event
+X098,L020,2026-11-03,Draft created,AI,Simulated historical event
+X099,L020,2026-11-04,Draft created,AI,Simulated historical event
+X100,L020,2026-11-05,Research,AI,Simulated historical event
+X101,L021,2026-11-01,Score update,AI,Simulated historical event
+X102,L021,2026-11-02,Research,AI,Simulated historical event
+X103,L021,2026-11-03,Draft created,AI,Simulated historical event
+X104,L021,2026-11-04,Draft created,AI,Simulated historical event
+X105,L021,2026-11-05,Score update,AI,Simulated historical event
+X106,L022,2026-11-01,Score update,AI,Simulated historical event
+X107,L022,2026-11-02,Research,AI,Simulated historical event
+X108,L022,2026-11-03,Score update,AI,Simulated historical event
+X109,L022,2026-11-04,Research,AI,Simulated historical event
+X110,L022,2026-11-05,Research,AI,Simulated historical event
+X111,L023,2026-11-01,Draft created,AI,Simulated historical event
+X112,L023,2026-11-02,Score update,AI,Simulated historical event
+X113,L023,2026-11-03,Draft created,AI,Simulated historical event
+X114,L023,2026-11-04,Research,AI,Simulated historical event
+X115,L023,2026-11-05,Research,AI,Simulated historical event
+X116,L024,2026-11-01,Draft created,AI,Simulated historical event
+X117,L024,2026-11-02,Score update,AI,Simulated historical event
+X118,L024,2026-11-03,Draft created,AI,Simulated historical event
+X119,L024,2026-11-04,Score update,AI,Simulated historical event
+X120,L024,2026-11-05,Score update,AI,Simulated historical event
+X121,L025,2026-11-01,Research,AI,Simulated historical event
+X122,L025,2026-11-02,Draft created,AI,Simulated historical event
+X123,L025,2026-11-03,Score update,AI,Simulated historical event
+X124,L025,2026-11-04,Draft created,AI,Simulated historical event
+X125,L025,2026-11-05,Draft created,AI,Simulated historical event
+X126,L026,2026-11-01,Research,AI,Simulated historical event
+X127,L026,2026-11-02,Score update,AI,Simulated historical event
+X128,L026,2026-11-03,Research,AI,Simulated historical event
+X129,L026,2026-11-04,Research,AI,Simulated historical event
+X130,L026,2026-11-05,Score update,AI,Simulated historical event
+X131,L027,2026-11-01,Score update,AI,Simulated historical event
+X132,L027,2026-11-02,Draft created,AI,Simulated historical event
+X133,L027,2026-11-03,Draft created,AI,Simulated historical event
+X134,L027,2026-11-04,Research,AI,Simulated historical event
+X135,L027,2026-11-05,Research,AI,Simulated historical event
+X136,L028,2026-11-01,Draft created,AI,Simulated historical event
+X137,L028,2026-11-02,Research,AI,Simulated historical event
+X138,L028,2026-11-03,Score update,AI,Simulated historical event
+X139,L028,2026-11-04,Research,AI,Simulated historical event
+X140,L028,2026-11-05,Score update,AI,Simulated historical event
+X141,L029,2026-11-01,Score update,AI,Simulated historical event
+X142,L029,2026-11-02,Research,AI,Simulated historical event
+X143,L029,2026-11-03,Score update,AI,Simulated historical event
+X144,L029,2026-11-04,Score update,AI,Simulated historical event
+X145,L029,2026-11-05,Draft created,AI,Simulated historical event
+X146,L030,2026-11-01,Research,AI,Simulated historical event
+X147,L030,2026-11-02,Draft created,AI,Simulated historical event
+X148,L030,2026-11-03,Score update,AI,Simulated historical event
+X149,L030,2026-11-04,Score update,AI,Simulated historical event
+X150,L030,2026-11-05,Draft created,AI,Simulated historical event
+X151,L031,2026-11-01,Draft created,AI,Simulated historical event
+X152,L031,2026-11-02,Draft created,AI,Simulated historical event
+X153,L031,2026-11-03,Draft created,AI,Simulated historical event
+X154,L031,2026-11-04,Draft created,AI,Simulated historical event
+X155,L031,2026-11-05,Draft created,AI,Simulated historical event
+X156,L032,2026-11-01,Score update,AI,Simulated historical event
+X157,L032,2026-11-02,Draft created,AI,Simulated historical event
+X158,L032,2026-11-03,Score update,AI,Simulated historical event
+X159,L032,2026-11-04,Score update,AI,Simulated historical event
+X160,L032,2026-11-05,Score update,AI,Simulated historical event
+X161,L033,2026-11-01,Research,AI,Simulated historical event
+X162,L033,2026-11-02,Score update,AI,Simulated historical event
+X163,L033,2026-11-03,Score update,AI,Simulated historical event
+X164,L033,2026-11-04,Research,AI,Simulated historical event
+X165,L033,2026-11-05,Score update,AI,Simulated historical event
+X166,L034,2026-11-01,Score update,AI,Simulated historical event
+X167,L034,2026-11-02,Draft created,AI,Simulated historical event
+X168,L034,2026-11-03,Draft created,AI,Simulated historical event
+X169,L034,2026-11-04,Draft created,AI,Simulated historical event
+X170,L034,2026-11-05,Draft created,AI,Simulated historical event
+X171,L035,2026-11-01,Draft created,AI,Simulated historical event
+X172,L035,2026-11-02,Research,AI,Simulated historical event
+X173,L035,2026-11-03,Score update,AI,Simulated historical event
+X174,L035,2026-11-04,Score update,AI,Simulated historical event
+X175,L035,2026-11-05,Draft created,AI,Simulated historical event
+X176,L036,2026-11-01,Score update,AI,Simulated historical event
+X177,L036,2026-11-02,Research,AI,Simulated historical event
+X178,L036,2026-11-03,Research,AI,Simulated historical event
+X179,L036,2026-11-04,Draft created,AI,Simulated historical event
+X180,L036,2026-11-05,Draft created,AI,Simulated historical event
+X181,L037,2026-11-01,Draft created,AI,Simulated historical event
+X182,L037,2026-11-02,Draft created,AI,Simulated historical event
+X183,L037,2026-11-03,Score update,AI,Simulated historical event
+X184,L037,2026-11-04,Score update,AI,Simulated historical event
+X185,L037,2026-11-05,Draft created,AI,Simulated historical event
+X186,L038,2026-11-01,Draft created,AI,Simulated historical event
+X187,L038,2026-11-02,Score update,AI,Simulated historical event
+X188,L038,2026-11-03,Draft created,AI,Simulated historical event
+X189,L038,2026-11-04,Research,AI,Simulated historical event
+X190,L038,2026-11-05,Score update,AI,Simulated historical event
+X191,L039,2026-11-01,Score update,AI,Simulated historical event
+X192,L039,2026-11-02,Draft created,AI,Simulated historical event
+X193,L039,2026-11-03,Research,AI,Simulated historical event
+X194,L039,2026-11-04,Draft created,AI,Simulated historical event
+X195,L039,2026-11-05,Research,AI,Simulated historical event
+X196,L040,2026-11-01,Draft created,AI,Simulated historical event
+X197,L040,2026-11-02,Draft created,AI,Simulated historical event
+X198,L040,2026-11-03,Research,AI,Simulated historical event
+X199,L040,2026-11-04,Draft created,AI,Simulated historical event
+X200,L040,2026-11-05,Score update,AI,Simulated historical event
+X201,L041,2026-11-01,Research,AI,Simulated historical event
+X202,L041,2026-11-02,Score update,AI,Simulated historical event
+X203,L041,2026-11-03,Score update,AI,Simulated historical event
+X204,L041,2026-11-04,Score update,AI,Simulated historical event
+X205,L041,2026-11-05,Research,AI,Simulated historical event
+X206,L042,2026-11-01,Draft created,AI,Simulated historical event
+X207,L042,2026-11-02,Draft created,AI,Simulated historical event
+X208,L042,2026-11-03,Research,AI,Simulated historical event
+X209,L042,2026-11-04,Research,AI,Simulated historical event
+X210,L042,2026-11-05,Draft created,AI,Simulated historical event
+X211,L043,2026-11-01,Score update,AI,Simulated historical event
+X212,L043,2026-11-02,Score update,AI,Simulated historical event
+X213,L043,2026-11-03,Score update,AI,Simulated historical event
+X214,L043,2026-11-04,Score update,AI,Simulated historical event
+X215,L043,2026-11-05,Research,AI,Simulated historical event
+X216,L044,2026-11-01,Research,AI,Simulated historical event
+X217,L044,2026-11-02,Research,AI,Simulated historical event
+X218,L044,2026-11-03,Research,AI,Simulated historical event
+X219,L044,2026-11-04,Draft created,AI,Simulated historical event
+X220,L044,2026-11-05,Research,AI,Simulated historical event
+X221,L045,2026-11-01,Draft created,AI,Simulated historical event
+X222,L045,2026-11-02,Draft created,AI,Simulated historical event
+X223,L045,2026-11-03,Draft created,AI,Simulated historical event
+X224,L045,2026-11-04,Research,AI,Simulated historical event
+X225,L045,2026-11-05,Research,AI,Simulated historical event
+X226,L046,2026-11-01,Draft created,AI,Simulated historical event
+X227,L046,2026-11-02,Draft created,AI,Simulated historical event
+X228,L046,2026-11-03,Research,AI,Simulated historical event
+X229,L046,2026-11-04,Research,AI,Simulated historical event
+X230,L046,2026-11-05,Draft created,AI,Simulated historical event
+X231,L047,2026-11-01,Research,AI,Simulated historical event
+X232,L047,2026-11-02,Draft created,AI,Simulated historical event
+X233,L047,2026-11-03,Draft created,AI,Simulated historical event
+X234,L047,2026-11-04,Score update,AI,Simulated historical event
+X235,L047,2026-11-05,Research,AI,Simulated historical event
+X236,L048,2026-11-01,Draft created,AI,Simulated historical event
+X237,L048,2026-11-02,Draft created,AI,Simulated historical event
+X238,L048,2026-11-03,Score update,AI,Simulated historical event
+X239,L048,2026-11-04,Draft created,AI,Simulated historical event
+X240,L048,2026-11-05,Draft created,AI,Simulated historical event
+X241,L049,2026-11-01,Score update,AI,Simulated historical event
+X242,L049,2026-11-02,Draft created,AI,Simulated historical event
+X243,L049,2026-11-03,Draft created,AI,Simulated historical event
+X244,L049,2026-11-04,Draft created,AI,Simulated historical event
+X245,L049,2026-11-05,Score update,AI,Simulated historical event
+X246,L050,2026-11-01,Score update,AI,Simulated historical event
+X247,L050,2026-11-02,Draft created,AI,Simulated historical event
+X248,L050,2026-11-03,Research,AI,Simulated historical event
+X249,L050,2026-11-04,Draft created,AI,Simulated historical event
+X250,L050,2026-11-05,Research,AI,Simulated historical event
+X251,L051,2026-11-01,Research,AI,Simulated historical event
+X252,L051,2026-11-02,Research,AI,Simulated historical event
+X253,L051,2026-11-03,Score update,AI,Simulated historical event
+X254,L051,2026-11-04,Research,AI,Simulated historical event
+X255,L051,2026-11-05,Score update,AI,Simulated historical event
+X256,L052,2026-11-01,Draft created,AI,Simulated historical event
+X257,L052,2026-11-02,Score update,AI,Simulated historical event
+X258,L052,2026-11-03,Score update,AI,Simulated historical event
+X259,L052,2026-11-04,Score update,AI,Simulated historical event
+X260,L052,2026-11-05,Score update,AI,Simulated historical event
+X261,L053,2026-11-01,Draft created,AI,Simulated historical event
+X262,L053,2026-11-02,Draft created,AI,Simulated historical event
+X263,L053,2026-11-03,Draft created,AI,Simulated historical event
+X264,L053,2026-11-04,Score update,AI,Simulated historical event
+X265,L053,2026-11-05,Research,AI,Simulated historical event
+X266,L054,2026-11-01,Score update,AI,Simulated historical event
+X267,L054,2026-11-02,Draft created,AI,Simulated historical event
+X268,L054,2026-11-03,Research,AI,Simulated historical event
+X269,L054,2026-11-04,Draft created,AI,Simulated historical event
+X270,L054,2026-11-05,Score update,AI,Simulated historical event
+X271,L055,2026-11-01,Score update,AI,Simulated historical event
+X272,L055,2026-11-02,Research,AI,Simulated historical event
+X273,L055,2026-11-03,Research,AI,Simulated historical event
+X274,L055,2026-11-04,Score update,AI,Simulated historical event
+X275,L055,2026-11-05,Score update,AI,Simulated historical event
+X276,L056,2026-11-01,Score update,AI,Simulated historical event
+X277,L056,2026-11-02,Draft created,AI,Simulated historical event
+X278,L056,2026-11-03,Draft created,AI,Simulated historical event
+X279,L056,2026-11-04,Draft created,AI,Simulated historical event
+X280,L056,2026-11-05,Research,AI,Simulated historical event
+X281,L057,2026-11-01,Draft created,AI,Simulated historical event
+X282,L057,2026-11-02,Research,AI,Simulated historical event
+X283,L057,2026-11-03,Research,AI,Simulated historical event
+X284,L057,2026-11-04,Draft created,AI,Simulated historical event
+X285,L057,2026-11-05,Research,AI,Simulated historical event
+X286,L058,2026-11-01,Draft created,AI,Simulated historical event
+X287,L058,2026-11-02,Score update,AI,Simulated historical event
+X288,L058,2026-11-03,Score update,AI,Simulated historical event
+X289,L058,2026-11-04,Research,AI,Simulated historical event
+X290,L058,2026-11-05,Research,AI,Simulated historical event
+X291,L059,2026-11-01,Draft created,AI,Simulated historical event
+X292,L059,2026-11-02,Research,AI,Simulated historical event
+X293,L059,2026-11-03,Draft created,AI,Simulated historical event
+X294,L059,2026-11-04,Research,AI,Simulated historical event
+X295,L059,2026-11-05,Score update,AI,Simulated historical event
+X296,L060,2026-11-01,Score update,AI,Simulated historical event
+X297,L060,2026-11-02,Draft created,AI,Simulated historical event
+X298,L060,2026-11-03,Score update,AI,Simulated historical event
+X299,L060,2026-11-04,Score update,AI,Simulated historical event
+X300,L060,2026-11-05,Draft created,AI,Simulated historical event
+X301,L061,2026-11-01,Draft created,AI,Simulated historical event
+X302,L061,2026-11-02,Draft created,AI,Simulated historical event
+X303,L061,2026-11-03,Draft created,AI,Simulated historical event
+X304,L061,2026-11-04,Research,AI,Simulated historical event
+X305,L061,2026-11-05,Draft created,AI,Simulated historical event
+X306,L062,2026-11-01,Score update,AI,Simulated historical event
+X307,L062,2026-11-02,Research,AI,Simulated historical event
+X308,L062,2026-11-03,Score update,AI,Simulated historical event
+X309,L062,2026-11-04,Score update,AI,Simulated historical event
+X310,L062,2026-11-05,Score update,AI,Simulated historical event
+X311,L063,2026-11-01,Score update,AI,Simulated historical event
+X312,L063,2026-11-02,Draft created,AI,Simulated historical event
+X313,L063,2026-11-03,Research,AI,Simulated historical event
+X314,L063,2026-11-04,Score update,AI,Simulated historical event
+X315,L063,2026-11-05,Research,AI,Simulated historical event
+X316,L064,2026-11-01,Research,AI,Simulated historical event
+X317,L064,2026-11-02,Research,AI,Simulated historical event
+X318,L064,2026-11-03,Draft created,AI,Simulated historical event
+X319,L064,2026-11-04,Score update,AI,Simulated historical event
+X320,L064,2026-11-05,Draft created,AI,Simulated historical event
+X321,L065,2026-11-01,Draft created,AI,Simulated historical event
+X322,L065,2026-11-02,Draft created,AI,Simulated historical event
+X323,L065,2026-11-03,Research,AI,Simulated historical event
+X324,L065,2026-11-04,Draft created,AI,Simulated historical event
+X325,L065,2026-11-05,Research,AI,Simulated historical event
+X326,L066,2026-11-01,Research,AI,Simulated historical event
+X327,L066,2026-11-02,Score update,AI,Simulated historical event
+X328,L066,2026-11-03,Draft created,AI,Simulated historical event
+X329,L066,2026-11-04,Score update,AI,Simulated historical event
+X330,L066,2026-11-05,Draft created,AI,Simulated historical event
+X331,L067,2026-11-01,Research,AI,Simulated historical event
+X332,L067,2026-11-02,Research,AI,Simulated historical event
+X333,L067,2026-11-03,Score update,AI,Simulated historical event
+X334,L067,2026-11-04,Score update,AI,Simulated historical event
+X335,L067,2026-11-05,Score update,AI,Simulated historical event
+X336,L068,2026-11-01,Score update,AI,Simulated historical event
+X337,L068,2026-11-02,Score update,AI,Simulated historical event
+X338,L068,2026-11-03,Score update,AI,Simulated historical event
+X339,L068,2026-11-04,Draft created,AI,Simulated historical event
+X340,L068,2026-11-05,Draft created,AI,Simulated historical event
+X341,L069,2026-11-01,Draft created,AI,Simulated historical event
+X342,L069,2026-11-02,Score update,AI,Simulated historical event
+X343,L069,2026-11-03,Draft created,AI,Simulated historical event
+X344,L069,2026-11-04,Score update,AI,Simulated historical event
+X345,L069,2026-11-05,Score update,AI,Simulated historical event
+X346,L070,2026-11-01,Score update,AI,Simulated historical event
+X347,L070,2026-11-02,Research,AI,Simulated historical event
+X348,L070,2026-11-03,Draft created,AI,Simulated historical event
+X349,L070,2026-11-04,Research,AI,Simulated historical event
+X350,L070,2026-11-05,Score update,AI,Simulated historical event
+X351,L071,2026-11-01,Draft created,AI,Simulated historical event
+X352,L071,2026-11-02,Score update,AI,Simulated historical event
+X353,L071,2026-11-03,Score update,AI,Simulated historical event
+X354,L071,2026-11-04,Draft created,AI,Simulated historical event
+X355,L071,2026-11-05,Draft created,AI,Simulated historical event
+X356,L072,2026-11-01,Draft created,AI,Simulated historical event
+X357,L072,2026-11-02,Draft created,AI,Simulated historical event
+X358,L072,2026-11-03,Research,AI,Simulated historical event
+X359,L072,2026-11-04,Score update,AI,Simulated historical event
+X360,L072,2026-11-05,Research,AI,Simulated historical event
+X361,L073,2026-11-01,Draft created,AI,Simulated historical event
+X362,L073,2026-11-02,Score update,AI,Simulated historical event
+X363,L073,2026-11-03,Draft created,AI,Simulated historical event
+X364,L073,2026-11-04,Draft created,AI,Simulated historical event
+X365,L073,2026-11-05,Research,AI,Simulated historical event
+X366,L074,2026-11-01,Score update,AI,Simulated historical event
+X367,L074,2026-11-02,Draft created,AI,Simulated historical event
+X368,L074,2026-11-03,Score update,AI,Simulated historical event
+X369,L074,2026-11-04,Score update,AI,Simulated historical event
+X370,L074,2026-11-05,Score update,AI,Simulated historical event
+X371,L075,2026-11-01,Draft created,AI,Simulated historical event
+X372,L075,2026-11-02,Score update,AI,Simulated historical event
+X373,L075,2026-11-03,Draft created,AI,Simulated historical event
+X374,L075,2026-11-04,Score update,AI,Simulated historical event
+X375,L075,2026-11-05,Score update,AI,Simulated historical event
+X376,L076,2026-11-01,Research,AI,Simulated historical event
+X377,L076,2026-11-02,Draft created,AI,Simulated historical event
+X378,L076,2026-11-03,Score update,AI,Simulated historical event
+X379,L076,2026-11-04,Score update,AI,Simulated historical event
+X380,L076,2026-11-05,Research,AI,Simulated historical event
+X381,L077,2026-11-01,Research,AI,Simulated historical event
+X382,L077,2026-11-02,Draft created,AI,Simulated historical event
+X383,L077,2026-11-03,Score update,AI,Simulated historical event
+X384,L077,2026-11-04,Draft created,AI,Simulated historical event
+X385,L077,2026-11-05,Draft created,AI,Simulated historical event
+X386,L078,2026-11-01,Score update,AI,Simulated historical event
+X387,L078,2026-11-02,Score update,AI,Simulated historical event
+X388,L078,2026-11-03,Draft created,AI,Simulated historical event
+X389,L078,2026-11-04,Score update,AI,Simulated historical event
+X390,L078,2026-11-05,Research,AI,Simulated historical event
+X391,L079,2026-11-01,Score update,AI,Simulated historical event
+X392,L079,2026-11-02,Score update,AI,Simulated historical event
+X393,L079,2026-11-03,Draft created,AI,Simulated historical event
+X394,L079,2026-11-04,Score update,AI,Simulated historical event
+X395,L079,2026-11-05,Research,AI,Simulated historical event
+X396,L080,2026-11-01,Score update,AI,Simulated historical event
+X397,L080,2026-11-02,Draft created,AI,Simulated historical event
+X398,L080,2026-11-03,Research,AI,Simulated historical event
+X399,L080,2026-11-04,Score update,AI,Simulated historical event
+X400,L080,2026-11-05,Score update,AI,Simulated historical event
+X401,L081,2026-11-01,Draft created,AI,Simulated historical event
+X402,L081,2026-11-02,Research,AI,Simulated historical event
+X403,L081,2026-11-03,Draft created,AI,Simulated historical event
+X404,L081,2026-11-04,Research,AI,Simulated historical event
+X405,L081,2026-11-05,Draft created,AI,Simulated historical event
+X406,L082,2026-11-01,Research,AI,Simulated historical event
+X407,L082,2026-11-02,Research,AI,Simulated historical event
+X408,L082,2026-11-03,Research,AI,Simulated historical event
+X409,L082,2026-11-04,Draft created,AI,Simulated historical event
+X410,L082,2026-11-05,Research,AI,Simulated historical event
+X411,L083,2026-11-01,Score update,AI,Simulated historical event
+X412,L083,2026-11-02,Research,AI,Simulated historical event
+X413,L083,2026-11-03,Draft created,AI,Simulated historical event
+X414,L083,2026-11-04,Score update,AI,Simulated historical event
+X415,L083,2026-11-05,Research,AI,Simulated historical event
+X416,L084,2026-11-01,Score update,AI,Simulated historical event
+X417,L084,2026-11-02,Research,AI,Simulated historical event
+X418,L084,2026-11-03,Research,AI,Simulated historical event
+X419,L084,2026-11-04,Score update,AI,Simulated historical event
+X420,L084,2026-11-05,Research,AI,Simulated historical event
+X421,L085,2026-11-01,Draft created,AI,Simulated historical event
+X422,L085,2026-11-02,Research,AI,Simulated historical event
+X423,L085,2026-11-03,Draft created,AI,Simulated historical event
+X424,L085,2026-11-04,Research,AI,Simulated historical event
+X425,L085,2026-11-05,Research,AI,Simulated historical event
+X426,L086,2026-11-01,Research,AI,Simulated historical event
+X427,L086,2026-11-02,Research,AI,Simulated historical event
+X428,L086,2026-11-03,Research,AI,Simulated historical event
+X429,L086,2026-11-04,Score update,AI,Simulated historical event
+X430,L086,2026-11-05,Research,AI,Simulated historical event
+X431,L087,2026-11-01,Score update,AI,Simulated historical event
+X432,L087,2026-11-02,Draft created,AI,Simulated historical event
+X433,L087,2026-11-03,Draft created,AI,Simulated historical event
+X434,L087,2026-11-04,Research,AI,Simulated historical event
+X435,L087,2026-11-05,Score update,AI,Simulated historical event
+X436,L088,2026-11-01,Score update,AI,Simulated historical event
+X437,L088,2026-11-02,Score update,AI,Simulated historical event
+X438,L088,2026-11-03,Draft created,AI,Simulated historical event
+X439,L088,2026-11-04,Research,AI,Simulated historical event
+X440,L088,2026-11-05,Score update,AI,Simulated historical event
+X441,L089,2026-11-01,Score update,AI,Simulated historical event
+X442,L089,2026-11-02,Score update,AI,Simulated historical event
+X443,L089,2026-11-03,Draft created,AI,Simulated historical event
+X444,L089,2026-11-04,Draft created,AI,Simulated historical event
+X445,L089,2026-11-05,Score update,AI,Simulated historical event
+X446,L090,2026-11-01,Score update,AI,Simulated historical event
+X447,L090,2026-11-02,Research,AI,Simulated historical event
+X448,L090,2026-11-03,Score update,AI,Simulated historical event
+X449,L090,2026-11-04,Score update,AI,Simulated historical event
+X450,L090,2026-11-05,Score update,AI,Simulated historical event
+X451,L091,2026-11-01,Research,AI,Simulated historical event
+X452,L091,2026-11-02,Research,AI,Simulated historical event
+X453,L091,2026-11-03,Score update,AI,Simulated historical event
+X454,L091,2026-11-04,Research,AI,Simulated historical event
+X455,L091,2026-11-05,Draft created,AI,Simulated historical event
+X456,L092,2026-11-01,Draft created,AI,Simulated historical event
+X457,L092,2026-11-02,Score update,AI,Simulated historical event
+X458,L092,2026-11-03,Draft created,AI,Simulated historical event
+X459,L092,2026-11-04,Research,AI,Simulated historical event
+X460,L092,2026-11-05,Score update,AI,Simulated historical event
+X461,L093,2026-11-01,Draft created,AI,Simulated historical event
+X462,L093,2026-11-02,Score update,AI,Simulated historical event
+X463,L093,2026-11-03,Research,AI,Simulated historical event
+X464,L093,2026-11-04,Score update,AI,Simulated historical event
+X465,L093,2026-11-05,Draft created,AI,Simulated historical event
+X466,L094,2026-11-01,Draft created,AI,Simulated historical event
+X467,L094,2026-11-02,Draft created,AI,Simulated historical event
+X468,L094,2026-11-03,Score update,AI,Simulated historical event
+X469,L094,2026-11-04,Research,AI,Simulated historical event
+X470,L094,2026-11-05,Research,AI,Simulated historical event
+X471,L095,2026-11-01,Score update,AI,Simulated historical event
+X472,L095,2026-11-02,Research,AI,Simulated historical event
+X473,L095,2026-11-03,Research,AI,Simulated historical event
+X474,L095,2026-11-04,Draft created,AI,Simulated historical event
+X475,L095,2026-11-05,Draft created,AI,Simulated historical event
+X476,L096,2026-11-01,Score update,AI,Simulated historical event
+X477,L096,2026-11-02,Draft created,AI,Simulated historical event
+X478,L096,2026-11-03,Draft created,AI,Simulated historical event
+X479,L096,2026-11-04,Research,AI,Simulated historical event
+X480,L096,2026-11-05,Research,AI,Simulated historical event
+X481,L097,2026-11-01,Score update,AI,Simulated historical event
+X482,L097,2026-11-02,Score update,AI,Simulated historical event
+X483,L097,2026-11-03,Score update,AI,Simulated historical event
+X484,L097,2026-11-04,Research,AI,Simulated historical event
+X485,L097,2026-11-05,Draft created,AI,Simulated historical event
+X486,L098,2026-11-01,Score update,AI,Simulated historical event
+X487,L098,2026-11-02,Draft created,AI,Simulated historical event
+X488,L098,2026-11-03,Research,AI,Simulated historical event
+X489,L098,2026-11-04,Research,AI,Simulated historical event
+X490,L098,2026-11-05,Research,AI,Simulated historical event
+X491,L099,2026-11-01,Research,AI,Simulated historical event
+X492,L099,2026-11-02,Score update,AI,Simulated historical event
+X493,L099,2026-11-03,Draft created,AI,Simulated historical event
+X494,L099,2026-11-04,Draft created,AI,Simulated historical event
+X495,L099,2026-11-05,Research,AI,Simulated historical event
+X496,L100,2026-11-01,Score update,AI,Simulated historical event
+X497,L100,2026-11-02,Draft created,AI,Simulated historical event
+X498,L100,2026-11-03,Score update,AI,Simulated historical event
+X499,L100,2026-11-04,Draft created,AI,Simulated historical event
+X500,L100,2026-11-05,Draft created,AI,Simulated historical event

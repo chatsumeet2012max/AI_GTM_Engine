@@ -1,0 +1,6 @@
+product_id,sector_id,name,capabilities,acv_min_usd,acv_max_usd,data_type
+P01,S01,AdVision Interactive,Interactive ads,25000,250000,Synthetic
+P02,S01,AdVision Creative,AI creative generation,25000,250000,Synthetic
+P03,S01,AdVision Immersive,Immersive campaigns,25000,250000,Synthetic
+P04,S01,AdVision Analytics,Campaign measurement,25000,250000,Synthetic
+P05,S01,AdVision Studio,Creative workflow,25000,250000,Synthetic

@@ -1,0 +1,11 @@
+icp_id,product_id,industry,min_employees,max_employees,buyer_role,trigger,confidence,data_type
+I01,P01,Retail,100,10000,CMO,Product launch,0.8,Synthetic
+I02,P01,Automotive,100,10000,VP Marketing,Rebranding,0.73,Synthetic
+I03,P01,CPG,100,10000,Creative Director,Marketing hire,0.71,Synthetic
+I04,P01,Entertainment,100,10000,CMO,New campaign,0.78,Synthetic
+I05,P01,Advertising agency,100,10000,VP Marketing,Agency appointment,0.9,Synthetic
+I06,P01,Retail,100,10000,Creative Director,Product launch,0.85,Synthetic
+I07,P01,Automotive,100,10000,CMO,Rebranding,0.91,Synthetic
+I08,P01,CPG,100,10000,VP Marketing,Marketing hire,0.93,Synthetic
+I09,P01,Entertainment,100,10000,Creative Director,New campaign,0.72,Synthetic
+I10,P01,Advertising agency,100,10000,CMO,Agency appointment,0.91,Synthetic

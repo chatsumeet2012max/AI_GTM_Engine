@@ -1,0 +1,16 @@
+competitor_id,product_id,name,category,annual_price_usd,positioning,data_type
+K01,P01,Demo Competitor 01,Direct,160000,Campaign technology,Synthetic
+K02,P01,Demo Competitor 02,Alternative,150000,Campaign technology,Synthetic
+K03,P01,Demo Competitor 03,Alternative,50000,Campaign technology,Synthetic
+K04,P01,Demo Competitor 04,Indirect,120000,Campaign technology,Synthetic
+K05,P01,Demo Competitor 05,Alternative,130000,Campaign technology,Synthetic
+K06,P01,Demo Competitor 06,Direct,130000,Campaign technology,Synthetic
+K07,P01,Demo Competitor 07,Direct,45000,Campaign technology,Synthetic
+K08,P01,Demo Competitor 08,Alternative,60000,Campaign technology,Synthetic
+K09,P01,Demo Competitor 09,Alternative,185000,Campaign technology,Synthetic
+K10,P01,Demo Competitor 10,Direct,135000,Campaign technology,Synthetic
+K11,P01,Demo Competitor 11,Indirect,70000,Campaign technology,Synthetic
+K12,P01,Demo Competitor 12,Direct,55000,Campaign technology,Synthetic
+K13,P01,Demo Competitor 13,Direct,105000,Campaign technology,Synthetic
+K14,P01,Demo Competitor 14,Direct,80000,Campaign technology,Synthetic
+K15,P01,Demo Competitor 15,Alternative,70000,Campaign technology,Synthetic

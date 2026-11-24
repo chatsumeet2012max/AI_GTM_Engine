@@ -1,0 +1,5 @@
+parameter,value,description
+fit_weight,0.6,Composite score weight
+intent_weight,0.4,Composite score weight
+tier_a_min,80,Tier A threshold
+tier_b_min,60,Tier B threshold

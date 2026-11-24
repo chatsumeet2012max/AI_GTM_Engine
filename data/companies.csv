@@ -1,0 +1,101 @@
+company_id,name,industry,country,employees,revenue_usd,domain,data_type,evidence
+C001,Demo Retail 001,Retail,US,1924,35000000,company001.example,Synthetic,No public evidence
+C002,Demo Automotive 002,Automotive,US,3911,527000000,company002.example,Synthetic,No public evidence
+C003,Demo CPG 003,CPG,US,4652,169000000,company003.example,Synthetic,No public evidence
+C004,Demo Entertainment 004,Entertainment,US,6301,90000000,company004.example,Synthetic,No public evidence
+C005,Demo Advertising agency 005,Advertising agency,US,6327,294000000,company005.example,Synthetic,No public evidence
+C006,Demo Retail 006,Retail,US,7673,398000000,company006.example,Synthetic,No public evidence
+C007,Demo Automotive 007,Automotive,US,5255,227000000,company007.example,Synthetic,No public evidence
+C008,Demo CPG 008,CPG,US,7119,929000000,company008.example,Synthetic,No public evidence
+C009,Demo Entertainment 009,Entertainment,US,1140,404000000,company009.example,Synthetic,No public evidence
+C010,Demo Advertising agency 010,Advertising agency,US,5673,124000000,company010.example,Synthetic,No public evidence
+C011,Demo Retail 011,Retail,US,3358,166000000,company011.example,Synthetic,No public evidence
+C012,Demo Automotive 012,Automotive,US,9395,979000000,company012.example,Synthetic,No public evidence
+C013,Demo CPG 013,CPG,US,8935,783000000,company013.example,Synthetic,No public evidence
+C014,Demo Entertainment 014,Entertainment,US,9738,577000000,company014.example,Synthetic,No public evidence
+C015,Demo Advertising agency 015,Advertising agency,US,3610,562000000,company015.example,Synthetic,No public evidence
+C016,Demo Retail 016,Retail,US,987,699000000,company016.example,Synthetic,No public evidence
+C017,Demo Automotive 017,Automotive,US,4192,905000000,company017.example,Synthetic,No public evidence
+C018,Demo CPG 018,CPG,US,3602,895000000,company018.example,Synthetic,No public evidence
+C019,Demo Entertainment 019,Entertainment,US,8073,168000000,company019.example,Synthetic,No public evidence
+C020,Demo Advertising agency 020,Advertising agency,US,1031,993000000,company020.example,Synthetic,No public evidence
+C021,Demo Retail 021,Retail,US,1443,439000000,company021.example,Synthetic,No public evidence
+C022,Demo Automotive 022,Automotive,US,7591,333000000,company022.example,Synthetic,No public evidence
+C023,Demo CPG 023,CPG,US,6154,301000000,company023.example,Synthetic,No public evidence
+C024,Demo Entertainment 024,Entertainment,US,4433,128000000,company024.example,Synthetic,No public evidence
+C025,Demo Advertising agency 025,Advertising agency,US,932,104000000,company025.example,Synthetic,No public evidence
+C026,Demo Retail 026,Retail,US,7107,584000000,company026.example,Synthetic,No public evidence
+C027,Demo Automotive 027,Automotive,US,6074,930000000,company027.example,Synthetic,No public evidence
+C028,Demo CPG 028,CPG,US,2762,829000000,company028.example,Synthetic,No public evidence
+C029,Demo Entertainment 029,Entertainment,US,3744,214000000,company029.example,Synthetic,No public evidence
+C030,Demo Advertising agency 030,Advertising agency,US,8446,419000000,company030.example,Synthetic,No public evidence
+C031,Demo Retail 031,Retail,US,5239,456000000,company031.example,Synthetic,No public evidence
+C032,Demo Automotive 032,Automotive,US,3328,382000000,company032.example,Synthetic,No public evidence
+C033,Demo CPG 033,CPG,US,4944,577000000,company033.example,Synthetic,No public evidence
+C034,Demo Entertainment 034,Entertainment,US,9602,631000000,company034.example,Synthetic,No public evidence
+C035,Demo Advertising agency 035,Advertising agency,US,5591,105000000,company035.example,Synthetic,No public evidence
+C036,Demo Retail 036,Retail,US,9531,209000000,company036.example,Synthetic,No public evidence
+C037,Demo Automotive 037,Automotive,US,7711,61000000,company037.example,Synthetic,No public evidence
+C038,Demo CPG 038,CPG,US,8370,446000000,company038.example,Synthetic,No public evidence
+C039,Demo Entertainment 039,Entertainment,US,7306,89000000,company039.example,Synthetic,No public evidence
+C040,Demo Advertising agency 040,Advertising agency,US,1152,434000000,company040.example,Synthetic,No public evidence
+C041,Demo Retail 041,Retail,US,7914,16000000,company041.example,Synthetic,No public evidence
+C042,Demo Automotive 042,Automotive,US,6471,354000000,company042.example,Synthetic,No public evidence
+C043,Demo CPG 043,CPG,US,7122,148000000,company043.example,Synthetic,No public evidence
+C044,Demo Entertainment 044,Entertainment,US,7805,29000000,company044.example,Synthetic,No public evidence
+C045,Demo Advertising agency 045,Advertising agency,US,4008,139000000,company045.example,Synthetic,No public evidence
+C046,Demo Retail 046,Retail,US,5196,120000000,company046.example,Synthetic,No public evidence
+C047,Demo Automotive 047,Automotive,US,5041,880000000,company047.example,Synthetic,No public evidence
+C048,Demo CPG 048,CPG,US,6982,852000000,company048.example,Synthetic,No public evidence
+C049,Demo Entertainment 049,Entertainment,US,8021,486000000,company049.example,Synthetic,No public evidence
+C050,Demo Advertising agency 050,Advertising agency,US,5611,39000000,company050.example,Synthetic,No public evidence
+C051,Demo Retail 051,Retail,US,1502,257000000,company051.example,Synthetic,No public evidence
+C052,Demo Automotive 052,Automotive,US,4086,323000000,company052.example,Synthetic,No public evidence
+C053,Demo CPG 053,CPG,US,3877,133000000,company053.example,Synthetic,No public evidence
+C054,Demo Entertainment 054,Entertainment,US,3280,313000000,company054.example,Synthetic,No public evidence
+C055,Demo Advertising agency 055,Advertising agency,US,1780,903000000,company055.example,Synthetic,No public evidence
+C056,Demo Retail 056,Retail,US,1313,600000000,company056.example,Synthetic,No public evidence
+C057,Demo Automotive 057,Automotive,US,8661,399000000,company057.example,Synthetic,No public evidence
+C058,Demo CPG 058,CPG,US,4435,686000000,company058.example,Synthetic,No public evidence
+C059,Demo Entertainment 059,Entertainment,US,4820,733000000,company059.example,Synthetic,No public evidence
+C060,Demo Advertising agency 060,Advertising agency,US,2430,83000000,company060.example,Synthetic,No public evidence
+C061,Demo Retail 061,Retail,US,8947,515000000,company061.example,Synthetic,No public evidence
+C062,Demo Automotive 062,Automotive,US,4515,600000000,company062.example,Synthetic,No public evidence
+C063,Demo CPG 063,CPG,US,5560,338000000,company063.example,Synthetic,No public evidence
+C064,Demo Entertainment 064,Entertainment,US,5253,268000000,company064.example,Synthetic,No public evidence
+C065,Demo Advertising agency 065,Advertising agency,US,8267,650000000,company065.example,Synthetic,No public evidence
+C066,Demo Retail 066,Retail,US,5191,574000000,company066.example,Synthetic,No public evidence
+C067,Demo Automotive 067,Automotive,US,4579,435000000,company067.example,Synthetic,No public evidence
+C068,Demo CPG 068,CPG,US,8418,283000000,company068.example,Synthetic,No public evidence
+C069,Demo Entertainment 069,Entertainment,US,6280,476000000,company069.example,Synthetic,No public evidence
+C070,Demo Advertising agency 070,Advertising agency,US,2592,517000000,company070.example,Synthetic,No public evidence
+C071,Demo Retail 071,Retail,US,2629,86000000,company071.example,Synthetic,No public evidence
+C072,Demo Automotive 072,Automotive,US,8094,903000000,company072.example,Synthetic,No public evidence
+C073,Demo CPG 073,CPG,US,5006,935000000,company073.example,Synthetic,No public evidence
+C074,Demo Entertainment 074,Entertainment,US,2885,189000000,company074.example,Synthetic,No public evidence
+C075,Demo Advertising agency 075,Advertising agency,US,253,930000000,company075.example,Synthetic,No public evidence
+C076,Demo Retail 076,Retail,US,5049,213000000,company076.example,Synthetic,No public evidence
+C077,Demo Automotive 077,Automotive,US,9372,895000000,company077.example,Synthetic,No public evidence
+C078,Demo CPG 078,CPG,US,2340,653000000,company078.example,Synthetic,No public evidence
+C079,Demo Entertainment 079,Entertainment,US,3389,145000000,company079.example,Synthetic,No public evidence
+C080,Demo Advertising agency 080,Advertising agency,US,7773,996000000,company080.example,Synthetic,No public evidence
+C081,Demo Retail 081,Retail,US,4395,608000000,company081.example,Synthetic,No public evidence
+C082,Demo Automotive 082,Automotive,US,7706,941000000,company082.example,Synthetic,No public evidence
+C083,Demo CPG 083,CPG,US,6467,474000000,company083.example,Synthetic,No public evidence
+C084,Demo Entertainment 084,Entertainment,US,7364,465000000,company084.example,Synthetic,No public evidence
+C085,Demo Advertising agency 085,Advertising agency,US,3575,667000000,company085.example,Synthetic,No public evidence
+C086,Demo Retail 086,Retail,US,5483,802000000,company086.example,Synthetic,No public evidence
+C087,Demo Automotive 087,Automotive,US,9747,341000000,company087.example,Synthetic,No public evidence
+C088,Demo CPG 088,CPG,US,8354,236000000,company088.example,Synthetic,No public evidence
+C089,Demo Entertainment 089,Entertainment,US,7367,85000000,company089.example,Synthetic,No public evidence
+C090,Demo Advertising agency 090,Advertising agency,US,7533,527000000,company090.example,Synthetic,No public evidence
+C091,Demo Retail 091,Retail,US,6632,435000000,company091.example,Synthetic,No public evidence
+C092,Demo Automotive 092,Automotive,US,6205,841000000,company092.example,Synthetic,No public evidence
+C093,Demo CPG 093,CPG,US,9937,329000000,company093.example,Synthetic,No public evidence
+C094,Demo Entertainment 094,Entertainment,US,3805,836000000,company094.example,Synthetic,No public evidence
+C095,Demo Advertising agency 095,Advertising agency,US,4577,729000000,company095.example,Synthetic,No public evidence
+C096,Demo Retail 096,Retail,US,602,103000000,company096.example,Synthetic,No public evidence
+C097,Demo Automotive 097,Automotive,US,2649,171000000,company097.example,Synthetic,No public evidence
+C098,Demo CPG 098,CPG,US,1964,363000000,company098.example,Synthetic,No public evidence
+C099,Demo Entertainment 099,Entertainment,US,5038,978000000,company099.example,Synthetic,No public evidence
+C100,Demo Advertising agency 100,Advertising agency,US,8296,582000000,company100.example,Synthetic,No public evidence

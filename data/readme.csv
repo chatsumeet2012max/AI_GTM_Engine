@@ -1,0 +1,9 @@
+section,description
+Purpose,Synthetic advertising GTM seed dataset; not real leads or verified contacts.
+Safety,All email domains use reserved .example; sending disabled.
+Scope,Nine sector configurations; only advertising populated.
+Evidence,Real cited prospects must be added separately for judging.
+Pipeline,"Stages are simulated snapshots, not actual outreach results."
+Keys,"IDs join products, companies, people, signals, ICP, pipeline and outreach."
+Graph,Edges use globally distinct identifiers; lead nodes derive from Pipeline.
+Scoring,Editable weights and thresholds in Settings.

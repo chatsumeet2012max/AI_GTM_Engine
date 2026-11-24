@@ -1,0 +1,201 @@
+signal_id,company_id,type,date,relevance,data_type,evidence
+G001,C001,Product launch,2026-08-30,87,Synthetic,No public evidence
+G002,C001,Agency appointment,2026-11-13,77,Synthetic,No public evidence
+G003,C002,Agency appointment,2026-10-02,54,Synthetic,No public evidence
+G004,C002,New campaign,2026-09-10,57,Synthetic,No public evidence
+G005,C003,Product launch,2026-10-10,94,Synthetic,No public evidence
+G006,C003,Marketing hire,2026-09-08,56,Synthetic,No public evidence
+G007,C004,Marketing hire,2026-09-12,52,Synthetic,No public evidence
+G008,C004,Product launch,2026-11-19,82,Synthetic,No public evidence
+G009,C005,Rebranding,2026-08-31,57,Synthetic,No public evidence
+G010,C005,Product launch,2026-09-08,80,Synthetic,No public evidence
+G011,C006,Product launch,2026-10-26,92,Synthetic,No public evidence
+G012,C006,Product launch,2026-10-15,65,Synthetic,No public evidence
+G013,C007,New campaign,2026-11-06,56,Synthetic,No public evidence
+G014,C007,Rebranding,2026-10-24,87,Synthetic,No public evidence
+G015,C008,Agency appointment,2026-09-22,45,Synthetic,No public evidence
+G016,C008,Product launch,2026-11-10,49,Synthetic,No public evidence
+G017,C009,Marketing hire,2026-09-15,95,Synthetic,No public evidence
+G018,C009,Product launch,2026-08-29,86,Synthetic,No public evidence
+G019,C010,Marketing hire,2026-09-21,88,Synthetic,No public evidence
+G020,C010,Rebranding,2026-09-21,98,Synthetic,No public evidence
+G021,C011,Product launch,2026-09-09,60,Synthetic,No public evidence
+G022,C011,New campaign,2026-11-22,47,Synthetic,No public evidence
+G023,C012,Agency appointment,2026-11-08,48,Synthetic,No public evidence
+G024,C012,New campaign,2026-09-15,50,Synthetic,No public evidence
+G025,C013,Marketing hire,2026-09-29,97,Synthetic,No public evidence
+G026,C013,Agency appointment,2026-09-28,47,Synthetic,No public evidence
+G027,C014,Product launch,2026-10-26,44,Synthetic,No public evidence
+G028,C014,Product launch,2026-10-13,44,Synthetic,No public evidence
+G029,C015,New campaign,2026-10-03,52,Synthetic,No public evidence
+G030,C015,Product launch,2026-11-12,82,Synthetic,No public evidence
+G031,C016,Product launch,2026-10-24,52,Synthetic,No public evidence
+G032,C016,Rebranding,2026-09-17,68,Synthetic,No public evidence
+G033,C017,Product launch,2026-11-18,81,Synthetic,No public evidence
+G034,C017,Agency appointment,2026-11-23,45,Synthetic,No public evidence
+G035,C018,New campaign,2026-10-22,99,Synthetic,No public evidence
+G036,C018,New campaign,2026-10-19,67,Synthetic,No public evidence
+G037,C019,Agency appointment,2026-09-16,43,Synthetic,No public evidence
+G038,C019,Marketing hire,2026-11-17,43,Synthetic,No public evidence
+G039,C020,Agency appointment,2026-11-16,83,Synthetic,No public evidence
+G040,C020,Rebranding,2026-10-04,47,Synthetic,No public evidence
+G041,C021,Marketing hire,2026-10-29,82,Synthetic,No public evidence
+G042,C021,Marketing hire,2026-10-25,56,Synthetic,No public evidence
+G043,C022,Agency appointment,2026-11-12,44,Synthetic,No public evidence
+G044,C022,Agency appointment,2026-10-28,72,Synthetic,No public evidence
+G045,C023,Marketing hire,2026-09-07,91,Synthetic,No public evidence
+G046,C023,Agency appointment,2026-11-23,82,Synthetic,No public evidence
+G047,C024,Agency appointment,2026-10-29,85,Synthetic,No public evidence
+G048,C024,Marketing hire,2026-10-29,83,Synthetic,No public evidence
+G049,C025,Product launch,2026-10-13,89,Synthetic,No public evidence
+G050,C025,Rebranding,2026-09-04,56,Synthetic,No public evidence
+G051,C026,Rebranding,2026-09-16,42,Synthetic,No public evidence
+G052,C026,Marketing hire,2026-09-11,75,Synthetic,No public evidence
+G053,C027,Rebranding,2026-08-31,46,Synthetic,No public evidence
+G054,C027,Marketing hire,2026-09-14,96,Synthetic,No public evidence
+G055,C028,New campaign,2026-08-31,95,Synthetic,No public evidence
+G056,C028,Rebranding,2026-10-21,50,Synthetic,No public evidence
+G057,C029,Rebranding,2026-11-21,82,Synthetic,No public evidence
+G058,C029,Rebranding,2026-10-04,61,Synthetic,No public evidence
+G059,C030,Product launch,2026-10-22,51,Synthetic,No public evidence
+G060,C030,Agency appointment,2026-10-22,42,Synthetic,No public evidence
+G061,C031,Rebranding,2026-10-23,42,Synthetic,No public evidence
+G062,C031,New campaign,2026-11-24,73,Synthetic,No public evidence
+G063,C032,Agency appointment,2026-10-15,82,Synthetic,No public evidence
+G064,C032,Product launch,2026-10-17,72,Synthetic,No public evidence
+G065,C033,Rebranding,2026-09-07,76,Synthetic,No public evidence
+G066,C033,Marketing hire,2026-10-04,75,Synthetic,No public evidence
+G067,C034,Rebranding,2026-09-20,70,Synthetic,No public evidence
+G068,C034,Rebranding,2026-09-01,45,Synthetic,No public evidence
+G069,C035,Rebranding,2026-11-06,41,Synthetic,No public evidence
+G070,C035,Product launch,2026-10-24,70,Synthetic,No public evidence
+G071,C036,Rebranding,2026-09-02,84,Synthetic,No public evidence
+G072,C036,Product launch,2026-11-11,89,Synthetic,No public evidence
+G073,C037,New campaign,2026-11-07,91,Synthetic,No public evidence
+G074,C037,New campaign,2026-08-31,73,Synthetic,No public evidence
+G075,C038,New campaign,2026-10-22,88,Synthetic,No public evidence
+G076,C038,Rebranding,2026-09-04,57,Synthetic,No public evidence
+G077,C039,Marketing hire,2026-09-16,45,Synthetic,No public evidence
+G078,C039,Rebranding,2026-11-05,54,Synthetic,No public evidence
+G079,C040,Product launch,2026-10-29,93,Synthetic,No public evidence
+G080,C040,New campaign,2026-10-06,97,Synthetic,No public evidence
+G081,C041,Agency appointment,2026-09-16,91,Synthetic,No public evidence
+G082,C041,Agency appointment,2026-10-27,71,Synthetic,No public evidence
+G083,C042,Rebranding,2026-09-06,74,Synthetic,No public evidence
+G084,C042,Product launch,2026-10-05,77,Synthetic,No public evidence
+G085,C043,Marketing hire,2026-10-28,69,Synthetic,No public evidence
+G086,C043,Marketing hire,2026-10-12,88,Synthetic,No public evidence
+G087,C044,Rebranding,2026-09-02,44,Synthetic,No public evidence
+G088,C044,Product launch,2026-11-21,100,Synthetic,No public evidence
+G089,C045,New campaign,2026-08-27,56,Synthetic,No public evidence
+G090,C045,Marketing hire,2026-11-03,78,Synthetic,No public evidence
+G091,C046,New campaign,2026-10-05,100,Synthetic,No public evidence
+G092,C046,Rebranding,2026-11-15,77,Synthetic,No public evidence
+G093,C047,Product launch,2026-10-11,74,Synthetic,No public evidence
+G094,C047,New campaign,2026-09-01,63,Synthetic,No public evidence
+G095,C048,New campaign,2026-08-26,49,Synthetic,No public evidence
+G096,C048,New campaign,2026-11-02,86,Synthetic,No public evidence
+G097,C049,Product launch,2026-10-20,96,Synthetic,No public evidence
+G098,C049,New campaign,2026-10-24,88,Synthetic,No public evidence
+G099,C050,Marketing hire,2026-10-22,61,Synthetic,No public evidence
+G100,C050,Marketing hire,2026-09-09,84,Synthetic,No public evidence
+G101,C051,New campaign,2026-09-03,85,Synthetic,No public evidence
+G102,C051,New campaign,2026-09-28,90,Synthetic,No public evidence
+G103,C052,Agency appointment,2026-10-11,67,Synthetic,No public evidence
+G104,C052,Agency appointment,2026-10-13,62,Synthetic,No public evidence
+G105,C053,Rebranding,2026-10-31,53,Synthetic,No public evidence
+G106,C053,New campaign,2026-10-20,86,Synthetic,No public evidence
+G107,C054,Agency appointment,2026-11-08,57,Synthetic,No public evidence
+G108,C054,Product launch,2026-11-18,75,Synthetic,No public evidence
+G109,C055,New campaign,2026-10-12,51,Synthetic,No public evidence
+G110,C055,Product launch,2026-10-23,100,Synthetic,No public evidence
+G111,C056,Marketing hire,2026-11-14,55,Synthetic,No public evidence
+G112,C056,Product launch,2026-09-14,88,Synthetic,No public evidence
+G113,C057,New campaign,2026-10-16,76,Synthetic,No public evidence
+G114,C057,Agency appointment,2026-11-17,79,Synthetic,No public evidence
+G115,C058,Product launch,2026-11-04,40,Synthetic,No public evidence
+G116,C058,New campaign,2026-09-28,84,Synthetic,No public evidence
+G117,C059,Marketing hire,2026-09-05,77,Synthetic,No public evidence
+G118,C059,Rebranding,2026-10-01,47,Synthetic,No public evidence
+G119,C060,Agency appointment,2026-10-19,68,Synthetic,No public evidence
+G120,C060,Product launch,2026-09-26,84,Synthetic,No public evidence
+G121,C061,Marketing hire,2026-09-08,56,Synthetic,No public evidence
+G122,C061,Product launch,2026-11-13,54,Synthetic,No public evidence
+G123,C062,New campaign,2026-10-20,51,Synthetic,No public evidence
+G124,C062,Agency appointment,2026-09-30,80,Synthetic,No public evidence
+G125,C063,New campaign,2026-08-28,71,Synthetic,No public evidence
+G126,C063,Marketing hire,2026-09-01,100,Synthetic,No public evidence
+G127,C064,Agency appointment,2026-11-24,82,Synthetic,No public evidence
+G128,C064,Agency appointment,2026-09-26,66,Synthetic,No public evidence
+G129,C065,Rebranding,2026-10-19,68,Synthetic,No public evidence
+G130,C065,New campaign,2026-11-09,41,Synthetic,No public evidence
+G131,C066,Product launch,2026-09-26,100,Synthetic,No public evidence
+G132,C066,Product launch,2026-09-03,93,Synthetic,No public evidence
+G133,C067,Rebranding,2026-10-06,52,Synthetic,No public evidence
+G134,C067,Agency appointment,2026-09-20,87,Synthetic,No public evidence
+G135,C068,Agency appointment,2026-09-01,71,Synthetic,No public evidence
+G136,C068,Rebranding,2026-09-28,74,Synthetic,No public evidence
+G137,C069,Agency appointment,2026-10-06,54,Synthetic,No public evidence
+G138,C069,New campaign,2026-11-19,60,Synthetic,No public evidence
+G139,C070,Marketing hire,2026-11-12,95,Synthetic,No public evidence
+G140,C070,New campaign,2026-11-12,73,Synthetic,No public evidence
+G141,C071,New campaign,2026-09-02,45,Synthetic,No public evidence
+G142,C071,Marketing hire,2026-08-30,94,Synthetic,No public evidence
+G143,C072,Marketing hire,2026-10-26,87,Synthetic,No public evidence
+G144,C072,Product launch,2026-09-30,46,Synthetic,No public evidence
+G145,C073,Marketing hire,2026-10-10,63,Synthetic,No public evidence
+G146,C073,New campaign,2026-11-06,55,Synthetic,No public evidence
+G147,C074,Rebranding,2026-09-22,98,Synthetic,No public evidence
+G148,C074,Agency appointment,2026-11-06,54,Synthetic,No public evidence
+G149,C075,Product launch,2026-09-29,100,Synthetic,No public evidence
+G150,C075,Marketing hire,2026-09-10,59,Synthetic,No public evidence
+G151,C076,Agency appointment,2026-10-10,76,Synthetic,No public evidence
+G152,C076,Marketing hire,2026-08-27,58,Synthetic,No public evidence
+G153,C077,Marketing hire,2026-10-26,78,Synthetic,No public evidence
+G154,C077,Marketing hire,2026-10-27,80,Synthetic,No public evidence
+G155,C078,New campaign,2026-11-20,77,Synthetic,No public evidence
+G156,C078,Marketing hire,2026-11-08,45,Synthetic,No public evidence
+G157,C079,Agency appointment,2026-09-21,98,Synthetic,No public evidence
+G158,C079,Marketing hire,2026-11-03,56,Synthetic,No public evidence
+G159,C080,New campaign,2026-09-14,63,Synthetic,No public evidence
+G160,C080,Product launch,2026-10-05,40,Synthetic,No public evidence
+G161,C081,New campaign,2026-11-21,79,Synthetic,No public evidence
+G162,C081,Agency appointment,2026-10-14,98,Synthetic,No public evidence
+G163,C082,Rebranding,2026-11-19,100,Synthetic,No public evidence
+G164,C082,Product launch,2026-10-17,71,Synthetic,No public evidence
+G165,C083,New campaign,2026-09-02,46,Synthetic,No public evidence
+G166,C083,New campaign,2026-09-07,66,Synthetic,No public evidence
+G167,C084,Marketing hire,2026-09-16,97,Synthetic,No public evidence
+G168,C084,Marketing hire,2026-11-17,65,Synthetic,No public evidence
+G169,C085,Marketing hire,2026-10-24,48,Synthetic,No public evidence
+G170,C085,Agency appointment,2026-10-29,44,Synthetic,No public evidence
+G171,C086,Rebranding,2026-09-16,56,Synthetic,No public evidence
+G172,C086,Rebranding,2026-11-10,82,Synthetic,No public evidence
+G173,C087,New campaign,2026-09-18,47,Synthetic,No public evidence
+G174,C087,Product launch,2026-09-25,68,Synthetic,No public evidence
+G175,C088,Agency appointment,2026-10-17,69,Synthetic,No public evidence
+G176,C088,Product launch,2026-11-17,70,Synthetic,No public evidence
+G177,C089,Rebranding,2026-10-20,79,Synthetic,No public evidence
+G178,C089,Agency appointment,2026-09-15,85,Synthetic,No public evidence
+G179,C090,Product launch,2026-09-02,81,Synthetic,No public evidence
+G180,C090,Agency appointment,2026-10-28,67,Synthetic,No public evidence
+G181,C091,Marketing hire,2026-10-08,49,Synthetic,No public evidence
+G182,C091,New campaign,2026-11-16,45,Synthetic,No public evidence
+G183,C092,Agency appointment,2026-10-13,82,Synthetic,No public evidence
+G184,C092,Product launch,2026-10-03,62,Synthetic,No public evidence
+G185,C093,Rebranding,2026-09-01,70,Synthetic,No public evidence
+G186,C093,Rebranding,2026-11-11,62,Synthetic,No public evidence
+G187,C094,Agency appointment,2026-08-30,81,Synthetic,No public evidence
+G188,C094,Agency appointment,2026-11-21,78,Synthetic,No public evidence
+G189,C095,Product launch,2026-11-01,95,Synthetic,No public evidence
+G190,C095,Rebranding,2026-09-13,82,Synthetic,No public evidence
+G191,C096,New campaign,2026-10-12,50,Synthetic,No public evidence
+G192,C096,Marketing hire,2026-10-16,86,Synthetic,No public evidence
+G193,C097,Marketing hire,2026-09-29,82,Synthetic,No public evidence
+G194,C097,New campaign,2026-09-23,78,Synthetic,No public evidence
+G195,C098,Agency appointment,2026-09-23,73,Synthetic,No public evidence
+G196,C098,Marketing hire,2026-11-19,54,Synthetic,No public evidence
+G197,C099,Marketing hire,2026-11-09,40,Synthetic,No public evidence
+G198,C099,New campaign,2026-09-30,51,Synthetic,No public evidence
+G199,C100,New campaign,2026-11-22,69,Synthetic,No public evidence
+G200,C100,Product launch,2026-10-15,76,Synthetic,No public evidence
